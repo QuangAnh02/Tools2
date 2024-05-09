@@ -1,0 +1,164 @@
+Kết quả thu thập thông tin:
+--------------------------------------------
+Kết quả của NSlookup ptit.edu.vn
+Truy vấn bản ghi A cho tên miền ptit.edu.vn:
+Truy vấn bản ghi NS cho tên miền ptit.edu.vn:
+Truy vấn bản ghi MX cho tên miền ptit.edu.vn:
+Truy vấn bản ghi SOA cho tên miền ptit.edu.vn:
+--------------------------------------------
+Kết quả của Dig
+
+; <<>> DiG 9.19.19-1-Debian <<>> ptit.edu.vn
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 33817
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;ptit.edu.vn.			IN	A
+
+;; ANSWER SECTION:
+ptit.edu.vn.		5	IN	A	222.255.113.97
+
+;; AUTHORITY SECTION:
+ptit.edu.vn.		5	IN	NS	ns1.vdconline.vn.
+ptit.edu.vn.		5	IN	NS	ns2.vdconline.vn.
+
+;; Query time: 23 msec
+;; SERVER: 192.168.91.2#53(192.168.91.2) (UDP)
+;; WHEN: Wed May 08 03:26:43 EDT 2024
+;; MSG SIZE  rcvd: 93
+
+
+--------------------------------------------
+Kết quả của whatweb ptit.edu.vn
+[1m[34mhttp://ptit.edu.vn[0m [404 Not Found] [1mCountry[0m[[0m[22mVIET NAM[0m][[1m[31mVN[0m], [1mHTTPServer[0m[[1m[36mnginx[0m], [1mIP[0m[[0m[22m222.255.113.97[0m], [1mTitle[0m[[1m[33m404 Not Found[0m], [1mnginx[0m
+
+--------------------------------------------
+Kết quả của sublister ptit.edu.vn
+[91m
+                 ____        _     _ _     _   _____
+                / ___| _   _| |__ | (_)___| |_|___ / _ __
+                \___ \| | | | '_ \| | / __| __| |_ \| '__|
+                 ___) | |_| | |_) | | \__ \ |_ ___) | |
+                |____/ \__,_|_.__/|_|_|___/\__|____/|_|[0m[93m
+
+                # Coded By Ahmed Aboul-Ela - @aboul3la
+    
+[94m[-] Enumerating subdomains now for ptit.edu.vn[0m
+[92m[-] Searching now in Baidu..[0m
+[92m[-] Searching now in Yahoo..[0m
+[92m[-] Searching now in Google..[0m
+[92m[-] Searching now in Bing..[0m
+[92m[-] Searching now in Ask..[0m
+[92m[-] Searching now in Netcraft..[0m
+[92m[-] Searching now in DNSdumpster..[0m
+[92m[-] Searching now in Virustotal..[0m
+[92m[-] Searching now in ThreatCrowd..[0m
+[92m[-] Searching now in SSL Certificates..[0m
+[92m[-] Searching now in PassiveDNS..[0m
+[91m[!] Error: Virustotal probably now is blocking our requests[0m
+[91m[!] Error: Google probably now is blocking our requests[0m
+[91m[~] Finished now the Google Enumeration ...[0m
+[93m[-] Total Unique Subdomains Found: 43[0m
+[92mPTIT-CAS.ptit.edu.vn[0m
+[92malumni.ptit.edu.vn[0m
+[92mapiquanlydaotao.ptit.edu.vn[0m
+[92mautodiscover.ptit.edu.vn[0m
+[92mbeta.ptit.edu.vn[0m
+[92mcds.ptit.edu.vn[0m
+[92mcie.ptit.edu.vn[0m
+[92mclc.ptit.edu.vn[0m
+[92mcode.ptit.edu.vn[0m
+[92mcongthanhtoan.ptit.edu.vn[0m
+[92mctf.ptit.edu.vn[0m
+[92mctttt.ptit.edu.vn[0m
+[92mdaotao.ptit.edu.vn[0m
+[92mdaotao2.ptit.edu.vn[0m
+[92mdhs.ptit.edu.vn[0m
+[92meript.ptit.edu.vn[0m
+[92mfintech.ptit.edu.vn[0m
+[92mhcm.ptit.edu.vn[0m
+[92mhtqt.ptit.edu.vn[0m
+[92micpc.ptit.edu.vn[0m
+[92mjobnskills.ptit.edu.vn[0m
+[92mkhcn.ptit.edu.vn[0m
+[92mmail.ptit.edu.vn[0m
+[92mwww.mail.ptit.edu.vn[0m
+[92mmcs.ptit.edu.vn[0m
+[92mmlalab.ptit.edu.vn[0m
+[92mmooc.ptit.edu.vn[0m
+[92mowa.ptit.edu.vn[0m
+[92mquanlydaotao.ptit.edu.vn[0m
+[92mquantri-khcn.ptit.edu.vn[0m
+[92mslink.ptit.edu.vn[0m
+[92mslinkid.ptit.edu.vn[0m
+[92mstdv.ptit.edu.vn[0m
+[92mthuctapcntt.ptit.edu.vn[0m
+[92mtoasoanso.ptit.edu.vn[0m
+[92mtotnghiepcntt.ptit.edu.vn[0m
+[92mtuyensinh.ptit.edu.vn[0m
+[92mtuyensinh2.ptit.edu.vn[0m
+[92mtuyensinhvlvh.ptit.edu.vn[0m
+[92mvanbang.ptit.edu.vn[0m
+[92mvlvh.ptit.edu.vn[0m
+[92mvmcs.ptit.edu.vn[0m
+[92mxettuyen.ptit.edu.vn[0m
+
+--------------------------------------------
+Kết quả của nmap ptit.edu.vn
+Output:Starting Nmap 7.94SVN ( https://nmap.org ) at 2024-05-08 03:27 EDT
+Initiating Ping Scan at 03:27
+Scanning ptit.edu.vn (222.255.113.97) [4 ports]
+Completed Ping Scan at 03:27, 0.03s elapsed (1 total hosts)
+Initiating Parallel DNS resolution of 1 host. at 03:27
+Completed Parallel DNS resolution of 1 host. at 03:27, 0.00s elapsed
+Initiating SYN Stealth Scan at 03:27
+Scanning ptit.edu.vn (222.255.113.97) [1000 ports]
+Discovered open port 443/tcp on 222.255.113.97
+Discovered open port 80/tcp on 222.255.113.97
+Discovered open port 8080/tcp on 222.255.113.97
+Discovered open port 2222/tcp on 222.255.113.97
+Increasing send delay for 222.255.113.97 from 0 to 5 due to 11 out of 16 dropped probes since last increase.
+Increasing send delay for 222.255.113.97 from 5 to 10 due to 11 out of 11 dropped probes since last increase.
+Completed SYN Stealth Scan at 03:28, 53.84s elapsed (1000 total ports)
+Initiating OS detection (try #1) against ptit.edu.vn (222.255.113.97)
+Retrying OS detection (try #2) against ptit.edu.vn (222.255.113.97)
+Nmap scan report for ptit.edu.vn (222.255.113.97)
+Host is up, received reset ttl 128 (0.038s latency).
+rDNS record for 222.255.113.97: static.vnpt.vn
+Scanned at 2024-05-08 03:27:10 EDT for 57s
+Not shown: 996 filtered tcp ports (no-response)
+PORT     STATE SERVICE      REASON
+80/tcp   open  http         syn-ack ttl 128
+443/tcp  open  https        syn-ack ttl 128
+2222/tcp open  EtherNetIP-1 syn-ack ttl 128
+8080/tcp open  http-proxy   syn-ack ttl 128
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+Aggressive OS guesses: Actiontec MI424WR-GEN3I WAP (97%), DD-WRT v24-sp2 (Linux 2.4.37) (97%), Microsoft Windows XP SP3 or Windows 7 or Windows Server 2012 (97%), Linux 3.2 (95%), Microsoft Windows XP SP3 (95%), VMware Player virtual NAT device (95%), Linux 4.4 (92%), BlueArc Titan 2100 NAS device (90%)
+No exact OS matches for host (test conditions non-ideal).
+TCP/IP fingerprint:
+SCAN(V=7.94SVN%E=4%D=5/8%OT=80%CT=%CU=%PV=N%G=N%TM=663B2987%P=x86_64-pc-linux-gnu)
+SEQ(SP=102%GCD=1%ISR=106%TI=I%TS=U)
+SEQ(SP=105%GCD=1%ISR=105%TI=I%TS=U)
+OPS(O1=M5B4%O2=M5B4%O3=M5B4%O4=M5B4%O5=M5B4%O6=M5B4)
+WIN(W1=FAF0%W2=FAF0%W3=FAF0%W4=FAF0%W5=FAF0%W6=FAF0)
+ECN(R=Y%DF=N%TG=80%W=FAF0%O=M5B4%CC=N%Q=)
+T1(R=Y%DF=N%TG=80%S=O%A=S+%F=AS%RD=0%Q=)
+T2(R=N)
+T3(R=Y%DF=N%TG=80%W=FAF0%S=O%A=S+%F=AS%O=M5B4%RD=0%Q=)
+T4(R=Y%DF=N%TG=80%W=7FFF%S=A%A=Z%F=R%O=%RD=0%Q=)
+T6(R=Y%DF=N%TG=80%W=7FFF%S=A%A=Z%F=R%O=%RD=0%Q=)
+U1(R=N)
+IE(R=N)
+
+TCP Sequence Prediction: Difficulty=261 (Good luck!)
+IP ID Sequence Generation: Incremental
+
+Read data files from: /usr/bin/../share/nmap
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 58.05 seconds
+           Raw packets sent: 2099 (97.056KB) | Rcvd: 1035 (41.480KB)
+
+--------------------------------------------
